@@ -2,7 +2,7 @@
 
 ![Banner Image](./assets/profile-banner.png)
 
-Welcome to my GitHub profile! I am a passionate [Your Profession] with a love for [Your Interests]. I enjoy working on exciting projects and exploring new technologies.
+Welcome to my GitHub profile! I am a passionate [Web Developer] with a love for [Your Interests]. I enjoy working on exciting projects and exploring new technologies.
 
 ## 🔧 Technologies & Tools
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a passionate [Your Profession] with a love fo
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=scilentgemini&theme=onedark)
 
 ## 🚀 Projects
 

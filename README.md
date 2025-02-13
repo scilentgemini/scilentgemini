@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I dabble in **Web Development, Graphic Design, and
 
 ---
 
-## 💤 My "Hard Work" in Numbers (GitHub Stats)
+## 💤 My "Hard Work" in Numbers
 <p align="center">
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=scilentgemini&show_icons=true&theme=tokyonight" />
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scilentgemini&layout=compact&theme=react" />

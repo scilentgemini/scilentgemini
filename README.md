@@ -1,4 +1,4 @@
-### Yello, I'm **ScilentGemini**! 😴🚀
+### Yaahaaloo, I'm **ScilentGemini**! 😴🚀
 
 Welcome to my GitHub profile! I dabble in **Web Development, Graphic Design, and Photography**, mostly when I'm not too busy perfecting the art of procrastination. I like to think about building **innovative solutions**… and yea, I never do. 😆
 

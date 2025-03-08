@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I dabble in **Web Development, Graphic Design, and
 
 ## 🚀 My "Sometimes Used" Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,php,laravel,mysql,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,next,php,laravel,mysql,git,github,linux" />
 </p>
 
 ---
